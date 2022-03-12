@@ -13,15 +13,12 @@ This modpack requires you to install [SuperBLT](https://superblt.znix.xyz/) and 
 ### Visual Mods
 * [Cleaner Turret Textures](https://modworkshop.net/mod/22998)
 * [Fixed Animation Sync](https://modworkshop.net/mod/32528)
-* [HD NPC Weapon Model Replacement](https://modworkshop.net/mod/34740)
-* [Less Artifacted Weapons](https://modworkshop.net/mod/29100)
 * [Master Indigo's HD Grenade Crate V2](https://modworkshop.net/mod/12404)
 * [More NPC Flashlights](https://modworkshop.net/mod/36486)
 * [Prettier Lasers](https://modworkshop.net/mod/34921)
 * [Reduced Headbob](https://modworkshop.net/mod/36376)
 * [Slightly Exaggerated 3rd-Person Muzzleflashes](https://modworkshop.net/mod/25764)
 * [Slightly Exxxaggerrated(sic) FPS Muzzleflashes](https://modworkshop.net/mod/26054)
-* [Vastly Improved Zeal Taser](https://modworkshop.net/mod/22882)
 * [Weapon Texture Reworks](https://modworkshop.net/mod/36505)
 
 ### UI Mods
