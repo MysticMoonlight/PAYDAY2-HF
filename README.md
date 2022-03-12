@@ -30,7 +30,6 @@ This modpack requires you to install [SuperBLT](https://superblt.znix.xyz/) and 
 
 ### Optimization Mods
 * [Map-Based Optimizations](https://modworkshop.net/mod/30521)
-* [Optimized Prop Meshes - Black Cat Heist Optimization 1.2](https://modworkshop.net/mod/34645)
 
 ### Sound Mods
 * [Narrator Anticipation Dialog Restoration](https://modworkshop.net/mod/28454)
