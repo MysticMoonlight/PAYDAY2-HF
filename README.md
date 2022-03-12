@@ -37,6 +37,9 @@ This modpack requires you to install [SuperBLT](https://superblt.znix.xyz/) and 
 * [Immersive Dodge Sounds](https://modworkshop.net/mod/35278)
 * [Vocal Heisters](https://modworkshop.net/mod/29114)
 
+### Dependencies
+* [Color Picker](https://modworkshop.net/mod/29641)
+
 ### Test Maps
 This map is intended for testing purposes only! It is optional but recommended for installing for easier bug reporting.
 * [Proving Grounds](https://modworkshop.net/mod/29905)
