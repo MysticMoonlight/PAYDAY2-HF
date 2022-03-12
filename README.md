@@ -16,7 +16,6 @@ This modpack requires you to install [SuperBLT](https://superblt.znix.xyz/) and 
 * [Master Indigo's HD Grenade Crate V2](https://modworkshop.net/mod/12404)
 * [More NPC Flashlights](https://modworkshop.net/mod/36486)
 * [Prettier Lasers](https://modworkshop.net/mod/34921)
-* [Reduced Headbob](https://modworkshop.net/mod/36376)
 * [Slightly Exaggerated 3rd-Person Muzzleflashes](https://modworkshop.net/mod/25764)
 * [Slightly Exxxaggerrated(sic) FPS Muzzleflashes](https://modworkshop.net/mod/26054)
 * [Weapon Texture Reworks](https://modworkshop.net/mod/36505)
