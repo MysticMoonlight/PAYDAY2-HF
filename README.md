@@ -1,6 +1,8 @@
 # PAYDAY 2: Heist of Frenzy
 PAYDAY 2: Heist of Frenzy is the modpack for best Co-op game, PAYDAY 2. It is also continuation of PAYDAY 2: Enhanced modpack.
 
+Discontinued due to lack of interests.
+
 # Changelog
 See [here](https://github.com/MysticMoonlight/PAYDAY2-HF/blob/main/CHANGELOG.md).
 
@@ -46,6 +48,11 @@ This map is intended for testing purposes only! It is optional but recommended f
 
 # Note
 * If you are using Linux, you must use Proton to install mods which uses BLT.
+
+# Special Thanks
+* [Overkill - A Starbreeze Studio](https://overkillsoftware.com/) for the PAYDAY 2,
+* [Sloofy](https://github.com/Sloofy) for feedback,
+* And you!
 
 <!-- Love you Selen --!>
 <!-- https://modworkshop.net/mod/36530 --!>
